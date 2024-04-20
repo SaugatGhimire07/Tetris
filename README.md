@@ -6,7 +6,7 @@ This is a Tetris game implemented using JavaScript and React.
 
 ## Demo
 
-[Include a link to a live demo of your game if available.]
+Available Soon!
 
 ## Features
 
@@ -14,3 +14,7 @@ This is a Tetris game implemented using JavaScript and React.
 - Responsive design
 - Score tracking
 - Levels and difficulty progression
+
+## Installation
+
+To run this project locally, follow these steps:
