@@ -1,0 +1,19 @@
+.GameStats {
+    margin-left: 20px;
+    align-self: flex-end;
+    list-style-type: none;
+}
+
+.GameStats__right {
+    text-align: left;
+}
+
+.GameStats .value {
+    color: rgba(255, 255, 255, 1);
+    font-size: 2.8rem;
+
+}
+
+.GameStats .value:not(:last-child) {
+    margin-bottom: 0.5em;
+}
